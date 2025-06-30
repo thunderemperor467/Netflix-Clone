@@ -2,6 +2,9 @@
 🎬 Netflix Clone – HTML & CSS
 This project is a Netflix homepage clone, built using pure HTML and CSS, as a part of my frontend development practice. The goal was to replicate the look and layout of Netflix’s landing page to improve my skills in responsive design and layout structuring.
 
+Just Checkout my Page
+netlfixxclone-adityachauhan.netlify.app
+
 🔍 Features
 🎯 Fully responsive design
 
